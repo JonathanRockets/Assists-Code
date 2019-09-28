@@ -1,0 +1,8 @@
+assists = [23,15,18,21,30]
+sum = 0
+for x in assists:
+  sum = sum + x
+#sum = 0 + 23 --> sum = 23 (first loop)
+#sum = 23 + 15 --> sum = 38 (second loop)
+#sum = 38 + 18 --> sum = 56 (third loop
+
